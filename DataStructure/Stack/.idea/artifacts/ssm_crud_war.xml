@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ssm-crud:war">
+    <output-path>$USER_HOME$/Downloads/Compressed/SSM-CRUD-master/SSM-CRUD-master/target</output-path>
+    <root id="archive" name="ssm-crud.war">
+      <element id="artifact" artifact-name="ssm-crud:war exploded" />
+    </root>
+  </artifact>
+</component>
