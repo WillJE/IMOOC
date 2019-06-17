@@ -1,4 +1,4 @@
-# IMOOC
+### IMOOC
 
 学习了Bobo老师的[玩转数据结构](https://coding.imooc.com/class/207.html/"玩转数据结构")课程，大致从头到尾温习了一遍大学没学太明白的数据结构，包括数组，链表，队列，栈，集合，映射，平衡二叉树，并查集，线段树，红黑树和hash等等。
 
@@ -18,4 +18,8 @@
 4. [并查集](https://github.com/WillJE/IMOOC/tree/master/DataStructure/UnionFind)
 
 -----
+
+### [小程序](<https://github.com/WillJE/IMOOC/小程序>)
+
+几个简单的小程序例子，豆瓣图书，音乐播放器和知乎日报。
 

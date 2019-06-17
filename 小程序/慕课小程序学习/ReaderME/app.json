@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "pages/posts/posts",
+    "pages/welcome/welcome",
+    "pages/post-detail/post-detail",
+    "pages/movies/movies"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#405f80"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/movies/movies",
+        "text": "电影"
+      },
+      {
+        "pagePath": "pages/posts/posts",
+        "text": "文章"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+<view>
+    <view class="cover-container">
+        <image src="images/demo.png"></image>
+    </view>
+    <view class="book-meta">
+        <view class="meta-info">
+            <text class="book-title">图书标题</text>
+            <text class="other-meta">作者：作者名称</text>
+            <text class="other-meta">出版社：xxx出版社</text>
+            <text class="other-meta">出版日期：2010-05-07</text>
+        </view>
+        <view class="range">
+            <text class="score">0</text>
+            <text class="viewers">0</text>
+        </view>
+    </view>
+    <view class="book-intro">
+        <view class="intro-header"><text>简介</text></view>
+        <text class="intro-content">
+            这是图书简介
+        </text>
+    </view>
+    <view class="book-intro">
+        <view class="intro-header"><text>作者</text></view>
+        <text class="intro-content">
+            这是作者简介
+        </text>
+    </view>
+</view>
+<loading>
+    加载中...
+</loading>
